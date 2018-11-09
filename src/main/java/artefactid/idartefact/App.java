@@ -1,10 +1,9 @@
 package artefactid.idartefact;
 
-public class App
-public class App
-public class App
-public class App
-
+/**
+ * Hello world!
+ *
+ */
 public class App 
 {
 	public static void main(String[] args)
@@ -15,11 +14,11 @@ public class App
 	
 	public static int modulo(int a, int b)
 	{
-		return a%b
+		return a%b;
 	}
 	
 	public static double division(double a, double b)
 	{
-		return (double)a/b
+		return (double)a/b;
 	}
 }
